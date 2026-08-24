@@ -78,7 +78,7 @@ assign Overflow = (X[15] & Y[15] & ~Z[15]) |
 
 Overflow occurs when two numbers having the same sign are added and the result has the opposite sign.
 
-📂 Project Files
+ Project Files
 
 16-bit-ALU-Verilog/
 │
@@ -169,7 +169,7 @@ The waveform can be used to observe:
 - "P"
 - "V"
 
-🛠️ Tools Used
+ Tools Used
 
 - Verilog HDL
 - Icarus Verilog
@@ -177,7 +177,7 @@ The waveform can be used to observe:
 - Git
 - GitHub
 
-🎯 Learning Objectives
+ Learning Objectives
 
 This project demonstrates:
 
